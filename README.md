@@ -4,3 +4,5 @@ The objective of EEG data analysis is to extract meaningful insights, enhancing 
 Results:
 Through comprehensive simulation studies and applications, we have obtained substantial evidence to validate that the RIHT has relatively high power, and it can test for changes when the distribution is unknown. Similarly, the MPDe can infer the precision matrix under time-dependent conditions. Additionally, the conducted analysis of channel selection and dominant channel can identify significant channels which play a crucial role in human cognitive ability, such as PO3, PO4, Pz, P4, P8, FT7 and FT8. All findings confirm that the proposed methods outperform existing ones, demonstrating the effectiveness of the framework in EEG data analysis.
 
+The RIHT and MPDe programs used in our studies can be executed in MATLAB. We have provided separate examples for each program. Additionally, the EEG data is included in the accompanying zip file. 
+
