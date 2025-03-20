@@ -1,4 +1,4 @@
-\textbf{Motivation}: 
+Motivation: 
 The objective of EEG data analysis is to extract meaningful insights, enhancing our understanding of brain function. However, the high dimensionality and temporal dependency of EEG data present significant challenges to the effective application of statistical methods. This study systematically addresses these challenges by introducing a high-dimensional statistical framework that includes testing changes in the mean vector and precision matrix, as well as conducting relevant analyses.Specifically, the Ridgelized Hotelling's $T^2$ test (RIHT) is introduced to test changes in the mean vector of EEG data over time while relaxing traditional distributional and moment assumptions. Secondly, a multiple population de-biased estimation and testing method (MPDe) is developed to estimate and simultaneously test differences in the precision matrix before and after stimulation. This approach extends the joint Gaussian graphical model to multiple populations while incorporating the temporal dependency of EEG data.Meanwhile, a novel data-driven fine-tuning method is applied to automatically search for optimal hyperparameters.
 
 Results:
